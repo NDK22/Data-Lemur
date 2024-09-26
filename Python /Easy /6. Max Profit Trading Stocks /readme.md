@@ -1,3 +1,5 @@
+Max Profit Trading Stocks [Google Python Interview Question]
+
 You are given a list of stock prices, where the stock's price on the day is stored as the ith element of the prices list.
 
 You want to maximize your profit trading the stock, but are only allowed to buy the stock once and sell it once on a future day.
