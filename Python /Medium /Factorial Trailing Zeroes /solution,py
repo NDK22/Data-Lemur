@@ -1,0 +1,7 @@
+def trailing_zeroes(n):
+  count = 0
+  denominator =5
+  while n //denominator >0:
+    count += n//denominator
+    denominator *= 5
+  return count
